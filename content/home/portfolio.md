@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
+    - name: Software Development
       tag: CV
     - name: NLP
       tag: NLP
